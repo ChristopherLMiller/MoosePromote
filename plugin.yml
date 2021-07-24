@@ -1,0 +1,6 @@
+name: MoosePromote:
+main: com.moosemanstudios.MoosePromote.MoosePromote
+author: moose517
+version: 0.1
+depend: [ bPermissions ]
+description: Promotion plugin based on questions and location
